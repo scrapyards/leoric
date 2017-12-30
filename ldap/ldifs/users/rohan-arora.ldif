@@ -1,0 +1,11 @@
+dn: uid=rohanarora,ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: Arora
+cn: Rohan Arora
+uid: rohanarora
+userPassword: {SSHA}ATUmulBmq7KnRa0ms6xplwqVw891DQrx
+description: Bastion

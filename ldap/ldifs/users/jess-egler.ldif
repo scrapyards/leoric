@@ -1,0 +1,11 @@
+dn: uid=jessegler,ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: Egler
+cn: Jess Egler
+uid: jessegler
+userPassword: {SSHA}Co7TSyTxsUjG6/VvdtLwAun2AoEokcqK
+description: Zarya

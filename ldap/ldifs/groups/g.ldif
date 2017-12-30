@@ -1,0 +1,38 @@
+dn: ou=Groups,dc=irrational,dc=io
+objectclass: organizationalunit
+ou: Groups
+description: We the People
+
+dn: cn=overwatch,ou=Groups,dc=irrational,dc=io
+objectclass: groupofname
+cn: overwatch
+description: Overwatch Team
+member: uid=colinbest,ou=People,dc=irrational,dc=io
+member: uid=gagehugo,ou=People,dc=irrational,dc=io
+member: uid=jessegler,ou=People,dc=irrational,dc=io
+member: uid=rohanarora,ou=People,dc=irrational,dc=io
+member: uid=sampilla,ou=People,dc=irrational,dc=io
+member: uid=nicolashelgeson,ou=People,dc=irrational,dc=io
+member: uid=jaewoopark,ou=People,dc=irrational,dc=io
+
+dn: cn=stl,ou=Groups,dc=irrational,dc=io
+objectclass: groupofname
+cn: stl
+description: Saint Louis Team
+member: uid=gagehugo,ou=People,dc=irrational,dc=io
+member: uid=jessegler,ou=People,dc=irrational,dc=io
+member: uid=rohanarora,ou=People,dc=irrational,dc=io
+member: uid=sampilla,ou=People,dc=irrational,dc=io
+
+dn: cn=dal,ou=Groups,dc=irrational,dc=io
+objectclass: groupofname
+cn: dal
+description: Dallas Team
+member: uid=colinbest,ou=People,dc=irrational,dc=io
+
+dn: cn=sr,ou=Groups,dc=irrational,dc=io
+objectclass: groupofname
+cn: sr
+description: San Ramon Team
+member: uid=nicolashelgeson,ou=People,dc=irrational,dc=io
+member: uid=jaewoopark,ou=People,dc=irrational,dc=io
