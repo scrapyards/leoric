@@ -1,0 +1,20 @@
+{
+  "CN": "*.kubernetes.io",
+  "hosts": [
+    "127.0.0.1",
+    "svc.local.cluster"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "US",
+      "L": "StLouis",
+      "O": "Docker",
+      "OU": "Docker Engine",
+      "ST": "Missouri"
+    }
+  ]
+}
