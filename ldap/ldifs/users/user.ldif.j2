@@ -1,0 +1,11 @@
+dn: uid={{ firstname | lower }}{{ lastname | lower }},ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: {{ lastname }}
+cn: {{ firstname }} {{ lastname }}
+uid: {{ firstname | lower }}{{ lastname | lower }}
+userPassword: {{ enc_password }}
+description: {{ description }}

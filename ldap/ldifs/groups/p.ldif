@@ -1,0 +1,4 @@
+dn: ou=People,dc=irrational,dc=io
+objectclass: organizationalunit
+ou: People
+description: We the People

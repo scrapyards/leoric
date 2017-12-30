@@ -1,0 +1,11 @@
+dn: uid=nicolashelgeson,ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: Helgeson
+cn: Nicolas Helgeson
+uid: nicolashelgeson
+userPassword: {SSHA}OER3LqK6jTEZbgfzHBsJI45CntGGCRAb
+description: Genji

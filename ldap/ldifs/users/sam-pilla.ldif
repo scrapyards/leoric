@@ -1,0 +1,11 @@
+dn: uid=sampilla,ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: Pilla
+cn: Sam Pilla
+uid: sampilla
+userPassword: {SSHA}dGiMjDePD4Hb1GcDP78DXqcSb0ojM0hd
+description: Doomfist

@@ -1,0 +1,24 @@
+dn: ou=Groups,dc=irrational,dc=io
+objectclass: organizationalunit
+ou: Groups
+description: We the People
+
+dn: cn=overwatch,ou=Groups,dc=irrational,dc=io
+objectclass: groupofname
+cn: overwatch
+description: Overwatch Team
+
+dn: cn=stl,ou=Groups,dc=irrational,dc=io
+objectclass: groupofname
+cn: stl
+description: Saint Louis Team
+
+dn: cn=dal,ou=Groups,dc=irrational,dc=io
+objectclass: groupofname
+cn: dal
+description: Dallas Team
+
+dn: cn=sr,ou=Groups,dc=irrational,dc=io
+objectclass: groupofname
+cn: sr
+description: San Ramon Team

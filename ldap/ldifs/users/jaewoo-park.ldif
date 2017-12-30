@@ -1,0 +1,11 @@
+dn: uid=jaewoopark,ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: Park
+cn: Jaewoo Park
+uid: jaewoopark
+userPassword: {SSHA}ld1u1MV6BhNszfwJCf1tRtnDsM76iBB+
+description: Hanzo
