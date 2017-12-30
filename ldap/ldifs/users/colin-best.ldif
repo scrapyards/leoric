@@ -1,0 +1,11 @@
+dn: uid=colinbest,ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: Best
+cn: Colin Best
+uid: colinbest
+userPassword: {SSHA}f4CGVFZSuMuThBEQpYLOdHExwWCZhw34
+description: McCree

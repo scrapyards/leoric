@@ -1,0 +1,11 @@
+dn: uid=gagehugo,ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: Hugo
+cn: Gage Hugo
+uid: gagehugo
+userPassword: {SSHA}8jB/ovb+KfxXUtsAQaLRM0X4vZ2sKZbB
+description: Reinhardt
