@@ -7,5 +7,9 @@ objectClass: person
 sn: Park
 cn: Jaewoo Park
 uid: jaewoopark
-userPassword: {SSHA}ld1u1MV6BhNszfwJCf1tRtnDsM76iBB+
+userPassword: {SSHA}1g63MyJNpPFPjOPr+spxJr6ibuZNuk0Y
 description: Hanzo
+gidNumber: 1000
+uidNumber: 3145
+homeDirectory: /home/jaewoopark
+mail: jaewoopark@example.com

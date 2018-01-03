@@ -7,5 +7,9 @@ objectClass: person
 sn: Best
 cn: Colin Best
 uid: colinbest
-userPassword: {SSHA}f4CGVFZSuMuThBEQpYLOdHExwWCZhw34
+userPassword: {SSHA}t9TctVXGy4JsI/PKoG3/ucOKp/R7qko9
 description: McCree
+gidNumber: 1000
+uidNumber: 8306
+homeDirectory: /home/colinbest
+mail: colinbest@example.com

@@ -2,7 +2,7 @@
 set -e
 
 : ${PASSWORD:="password"}
-: ${LDAPHOST:="ldap://localhost"}
+: ${LDAPHOST:="ldap://localhost:389"}
 : ${ADMIN:="cn=admin,dc=irrational,dc=io"}
 
 ldapadd -Q -Y EXTERNAL -D $ADMIN -H $LDAPHOST -w $PASSWORD -f ldifs/memberof/memberof.ldif
