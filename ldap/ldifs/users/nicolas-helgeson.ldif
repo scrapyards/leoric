@@ -7,5 +7,9 @@ objectClass: person
 sn: Helgeson
 cn: Nicolas Helgeson
 uid: nicolashelgeson
-userPassword: {SSHA}OER3LqK6jTEZbgfzHBsJI45CntGGCRAb
+userPassword: {SSHA}9sFAPX2zpcRgZEJi/CMSz3Av1DSgYKV3
 description: Genji
+gidNumber: 1000
+uidNumber: 8332
+homeDirectory: /home/nicolashelgeson
+mail: nicolashelgeson@example.com

@@ -2,7 +2,7 @@
 set -e
 
 : ${PASSWORD:="password"}
-: ${LDAPHOST:="ldap://localhost"}
+: ${LDAPHOST:="ldap://localhost:389"}
 : ${ADMIN:="cn=admin,dc=irrational,dc=io"}
 
 # Add the People group

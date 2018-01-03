@@ -7,5 +7,9 @@ objectClass: person
 sn: Egler
 cn: Jess Egler
 uid: jessegler
-userPassword: {SSHA}Co7TSyTxsUjG6/VvdtLwAun2AoEokcqK
+userPassword: {SSHA}tnDWpq6tXnLKKQ0y8ODr2LPPFTfN5iVe
 description: Zarya
+gidNumber: 1000
+uidNumber: 1183
+homeDirectory: /home/jessegler
+mail: jessegler@example.com

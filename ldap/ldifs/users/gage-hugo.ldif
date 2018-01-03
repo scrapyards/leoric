@@ -7,5 +7,9 @@ objectClass: person
 sn: Hugo
 cn: Gage Hugo
 uid: gagehugo
-userPassword: {SSHA}8jB/ovb+KfxXUtsAQaLRM0X4vZ2sKZbB
+userPassword: {SSHA}GCsLxD48TbmHbRFIJBs6tzlSPb2RWv/N
 description: Reinhardt
+gidNumber: 1000
+uidNumber: 4942
+homeDirectory: /home/gagehugo
+mail: gagehugo@example.com

@@ -7,5 +7,9 @@ objectClass: person
 sn: Pilla
 cn: Sam Pilla
 uid: sampilla
-userPassword: {SSHA}dGiMjDePD4Hb1GcDP78DXqcSb0ojM0hd
+userPassword: {SSHA}Tidsm7Xwnlijcg8hJ0rHt9gJ1oGcdrWv
 description: Doomfist
+gidNumber: 1000
+uidNumber: 1945
+homeDirectory: /home/sampilla
+mail: sampilla@example.com
