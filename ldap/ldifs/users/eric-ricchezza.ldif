@@ -1,0 +1,15 @@
+dn: uid=ericricchezza,ou=People,dc=irrational,dc=io
+objectClass: inetOrgPerson
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: person
+sn: Ricchezza
+cn: ericricchezza
+uid: ericricchezza
+userPassword: {SSHA}3Qc12AriFckaymaxwU1kuKpf0OEDlxng
+description: Roadhog
+gidNumber: 1000
+uidNumber: 4096
+homeDirectory: /home/ericricchezza
+mail: ericricchezza@example.com

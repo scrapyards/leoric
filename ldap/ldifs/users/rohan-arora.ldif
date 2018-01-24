@@ -5,11 +5,11 @@ objectClass: posixAccount
 objectClass: shadowAccount
 objectClass: person
 sn: Arora
-cn: Rohan Arora
+cn: rohanarora
 uid: rohanarora
-userPassword: {SSHA}PoQ12dJFZcbaJPdomgIqjzz0eTlDlffj
+userPassword: {SSHA}Sy1wGeAkAFIjqEJvoiEMVHhR7UC/0e5n
 description: Bastion
 gidNumber: 1000
-uidNumber: 5648
+uidNumber: 5689
 homeDirectory: /home/rohanarora
 mail: rohanarora@example.com

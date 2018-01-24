@@ -5,11 +5,11 @@ objectClass: posixAccount
 objectClass: shadowAccount
 objectClass: person
 sn: Hugo
-cn: Gage Hugo
+cn: gagehugo
 uid: gagehugo
-userPassword: {SSHA}GCsLxD48TbmHbRFIJBs6tzlSPb2RWv/N
+userPassword: {SSHA}GeyaFcXDnB1Ujki0ObC9eC65kPowB0ua
 description: Reinhardt
 gidNumber: 1000
-uidNumber: 4942
+uidNumber: 4907
 homeDirectory: /home/gagehugo
 mail: gagehugo@example.com

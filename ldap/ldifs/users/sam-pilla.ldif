@@ -5,11 +5,11 @@ objectClass: posixAccount
 objectClass: shadowAccount
 objectClass: person
 sn: Pilla
-cn: Sam Pilla
+cn: sampilla
 uid: sampilla
-userPassword: {SSHA}Tidsm7Xwnlijcg8hJ0rHt9gJ1oGcdrWv
+userPassword: {SSHA}hS2Lz0xhGOqrQTFL/MfcoWVg0XgnOptr
 description: Doomfist
 gidNumber: 1000
-uidNumber: 1945
+uidNumber: 6405
 homeDirectory: /home/sampilla
 mail: sampilla@example.com

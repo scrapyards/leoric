@@ -5,11 +5,11 @@ objectClass: posixAccount
 objectClass: shadowAccount
 objectClass: person
 sn: Egler
-cn: Jess Egler
+cn: jessegler
 uid: jessegler
-userPassword: {SSHA}tnDWpq6tXnLKKQ0y8ODr2LPPFTfN5iVe
+userPassword: {SSHA}3f6xN4jTIJOAfB0eyQ/ANuWtNn/4IgfI
 description: Zarya
 gidNumber: 1000
-uidNumber: 1183
+uidNumber: 3958
 homeDirectory: /home/jessegler
 mail: jessegler@example.com

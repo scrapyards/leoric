@@ -5,7 +5,7 @@ objectClass: posixAccount
 objectClass: shadowAccount
 objectClass: person
 sn: {{ lastname }}
-cn: {{ firstname }} {{ lastname }}
+cn: {{ firstname | lower }}{{ lastname | lower }}
 uid: {{ firstname | lower }}{{ lastname | lower }}
 userPassword: {{ enc_password }}
 description: {{ description }}

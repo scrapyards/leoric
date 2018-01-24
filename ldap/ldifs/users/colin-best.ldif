@@ -5,11 +5,11 @@ objectClass: posixAccount
 objectClass: shadowAccount
 objectClass: person
 sn: Best
-cn: Colin Best
+cn: colinbest
 uid: colinbest
-userPassword: {SSHA}t9TctVXGy4JsI/PKoG3/ucOKp/R7qko9
+userPassword: {SSHA}TpZbIqt68Mm5q456E4KRuvA0HYQVJ3Is
 description: McCree
 gidNumber: 1000
-uidNumber: 8306
+uidNumber: 1493
 homeDirectory: /home/colinbest
 mail: colinbest@example.com

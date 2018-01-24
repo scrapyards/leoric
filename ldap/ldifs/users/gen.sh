@@ -5,3 +5,4 @@
 ./run.sh Nicolas Helgeson Genji
 ./run.sh Rohan Arora Bastion
 ./run.sh Sam Pilla Doomfist
+./run.sh Eric Ricchezza Roadhog

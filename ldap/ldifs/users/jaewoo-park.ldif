@@ -5,11 +5,11 @@ objectClass: posixAccount
 objectClass: shadowAccount
 objectClass: person
 sn: Park
-cn: Jaewoo Park
+cn: jaewoopark
 uid: jaewoopark
-userPassword: {SSHA}1g63MyJNpPFPjOPr+spxJr6ibuZNuk0Y
+userPassword: {SSHA}SEnZtGtM5zkkDhs5aZjPwu5tN2A6vIQr
 description: Hanzo
 gidNumber: 1000
-uidNumber: 3145
+uidNumber: 1886
 homeDirectory: /home/jaewoopark
 mail: jaewoopark@example.com

@@ -5,11 +5,11 @@ objectClass: posixAccount
 objectClass: shadowAccount
 objectClass: person
 sn: Helgeson
-cn: Nicolas Helgeson
+cn: nicolashelgeson
 uid: nicolashelgeson
-userPassword: {SSHA}9sFAPX2zpcRgZEJi/CMSz3Av1DSgYKV3
+userPassword: {SSHA}kjVZ6LDD7sIuC97v+yvUM/3Itk8aKXRQ
 description: Genji
 gidNumber: 1000
-uidNumber: 8332
+uidNumber: 6446
 homeDirectory: /home/nicolashelgeson
 mail: nicolashelgeson@example.com
