@@ -21,26 +21,26 @@ dn: cn=stl,ou=Groups,dc=irrational,dc=io
 objectclass: top
 objectclass: posixGroup
 gidNumber: 419
-cn: stl
-description: Saint Louis Team
+cn: central
+description: Central Team
 memberUID: uid=gagehugo,ou=People,dc=irrational,dc=io
 memberUID: uid=jessegler,ou=People,dc=irrational,dc=io
 memberUID: uid=rohanarora,ou=People,dc=irrational,dc=io
 memberUID: uid=sampilla,ou=People,dc=irrational,dc=io
 
-dn: cn=dal,ou=Groups,dc=irrational,dc=io
+dn: cn=south,ou=Groups,dc=irrational,dc=io
 objectclass: top
 objectclass: posixGroup
 gidNumber: 420
-cn: dal
-description: Dallas Team
+cn: south
+description: South Team
 memberUID: uid=colinbest,ou=People,dc=irrational,dc=io
 
-dn: cn=sr,ou=Groups,dc=irrational,dc=io
+dn: cn=west,ou=Groups,dc=irrational,dc=io
 objectclass: top
 objectclass: posixGroup
 gidNumber: 421
-cn: sr
-description: San Ramon Team
+cn: west
+description: West Team
 memberUID: uid=nicolashelgeson,ou=People,dc=irrational,dc=io
 memberUID: uid=jaewoopark,ou=People,dc=irrational,dc=io
